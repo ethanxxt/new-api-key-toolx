@@ -48,7 +48,7 @@ REACT_APP_SHOW_ICONGITHUB=true
 #### Docker 部署
 1. 克隆项目到本地:
 ```bash
-git clone https://github.com/AI-ASS/neko-api-key-tool.git
+git clone https://github.com/Calcium-Ion/neko-api-key-tool.git
 cd neko-api-key-tool
 ```
 
